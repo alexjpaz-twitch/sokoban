@@ -1,3 +1,3 @@
 # sokoban
 
-## https://github.com/alexjpaz-twitch/sokoban?channel=
+## https://pages.github.io/alexjpaz-twitch/sokoban?channel=
